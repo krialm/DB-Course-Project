@@ -94,6 +94,9 @@ Indexes are defined on several columns to optimize performance.
 | unit_price | NUMERIC(10,2) | Price per unit |
 | discount | NUMERIC(4,2) | Discount (0–1) |
 
+<img width="420" height="362" alt="image" src="https://github.com/user-attachments/assets/fb420a2d-582b-42f1-81b3-72af8b625ae8" />
+
+
 ### 2.6 Entity–Relationship Diagram
 Insert ERD image here.
 
